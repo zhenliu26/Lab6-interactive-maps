@@ -14,7 +14,7 @@ The first map shows the number of Starbucks in each zip code.
 
 The second map shows the distribution of Starbucks in LA.
 
-![](images/LA-point-map.JPG)
+![](images/distribution_starbuck_LA.JPG)
 
 The Third map shows the unemployment rate by state by 2012.
 
