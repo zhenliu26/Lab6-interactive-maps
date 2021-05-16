@@ -6,3 +6,6 @@ This tutorial uses a Python library called Folium and pandas to create several i
 * A precise map of all Starbucks' locations in LA County
 
 The third map is the map the unemployment by state by 2012.
+
+## Result
+
