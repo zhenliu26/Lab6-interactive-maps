@@ -25,7 +25,7 @@ In this lab, I learned how to use Folium and pandas to create the interactive ma
 
 I learned the Modifiable areal unit problem. The different size of unit can affects the results. That's why we see the second map is more "real" for the understanding of the distribution. MAUP is a common problem when we are generating a map. We always use the postal code zone as the unit. However, the zip code is designed for mailing. It has little to do with the analysis. So, the final map can be misleading for readers.
 
-Also, I tried several parameters in the library Folium. For example, I changed the marker to Starbucks' logo in the second map. Folium provided the CustomIcon class to create the customized icon. Then, I generated a Marker class with the customized icon. The code is below.
+Also, I tried several modifications by using library Folium. For example, I changed the marker to Starbucks' logo in the second map. Folium provided the CustomIcon class to create the customized icon. Then, I generated a Marker class with the customized icon. The code is below.
 
 ```
 for i,row in df.iterrows():
